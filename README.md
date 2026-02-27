@@ -43,6 +43,54 @@ search functionality, admin tooling, and Docker-based deployment.
 - Fully containerized environment using Docker for reproducible setup
 
 ---
+
+## Screenshots
+
+### Home Page
+Landing page showcasing featured products and navigation.
+![Home](./screenshots/home.png)
+
+---
+
+### Browse Cards
+View all available Magic: The Gathering cards.
+![Cards](./screenshots/cards.png)
+
+---
+
+### Card Details
+Individual card page displaying card information and purchase options.
+![Card Page](./screenshots/cp.png)
+![Card Page 2](./screenshots/cp2.png)
+
+---
+
+### Shopping Cart
+Dynamic cart with real-time updates before checkout.
+![Cart](./screenshots/cart.png)
+
+---
+
+### Search Functionality
+Keyword-based search across name, description, category, and variant.
+![Search](./screenshots/search.png)
+![Search 2](./screenshots/search2.png)
+
+---
+
+### Best Sellers
+Highlighted top-performing or featured cards.
+![Best Seller](./screenshots/bs.png)
+
+---
+
+### Admin Dashboard
+Administrative view of active shopping carts and placed orders.
+![Admin](./screenshots/admin.png)
+![Admin 2](./screenshots/admin2.png)
+
+---
+
 ## Docker instructions:
 
 `docker compose up` in the root directory. Please wait till the mongoDB server is running.
