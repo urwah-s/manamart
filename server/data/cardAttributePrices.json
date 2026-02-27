@@ -1,0 +1,33 @@
+[
+  { "aId": 101,
+    "price": 49.99,
+    "imageUrl": "/the-ur-dragon.png"
+  },
+  { "aId": 102,
+    "price": 54.99,
+    "imageUrl": "/the-ur-dragon-borderless.jpg"
+  },
+  { "aId": 103,
+    "price": 79.99,
+    "imageUrl": "/the-ur-dragon-foil.jpg"
+  },
+  { "aId": 201,
+    "price": 1.99,
+    "imageUrl": "/sol-ring.jpg"
+  },
+  { "aId": 202,
+    "price": 11.99,
+    "imageUrl": "/sol-ring-borderless.jpg"
+  },
+  { "aId": 203,
+    "price": 2.49,
+    "imageUrl": "/sol-ring-ffxiv.png"
+  },
+  { "aId": 301, "price": 0.99, "imageUrl": "/path-to-exile.jpg" },
+  { "aId": 401, "price": 1.21, "imageUrl": "/anguished-unmaking.jpg" },
+  { "aId": 501, "price": 4.03, "imageUrl": "/arcane-signet.jpg" },
+  { "aId": 601, "price": 4.03, "imageUrl": "/atraxa-praetors-voice.jpg" },
+  { "aId": 701, "price": 397.69, "imageUrl": "/krenko-mob-boss.jpg" },
+  { "aId": 801, "price": 2.82, "imageUrl": "/swiftfoot-boots.jpg" },
+  { "aId": 901, "price": 58.17, "imageUrl": "/vampiric-tutor.jpg" }
+]

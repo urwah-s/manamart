@@ -1,0 +1,14 @@
+[
+  { "pId": 1, "aId": 101, "cat": "Creatures" },
+  { "pId": 1, "aId": 101, "cat": "Best-Seller" },
+  { "pId": 2, "aId": 201, "cat": "Artifact" },
+  { "pId": 2, "aId": 203, "cat": "Best-Seller" },
+  { "pId": 3, "aId": 301, "cat": "Instant" },
+  { "pId": 4, "aId": 401, "cat": "Instant" },
+  { "pId": 5, "aId": 501,"cat": "Artifact" },
+  { "pId": 6, "aId": 601, "cat": "Creatures" },
+  { "pId": 7, "aId": 701, "cat": "Creatures" },
+  { "pId": 8, "aId": 801, "cat": "Artifact" },
+  { "pId": 9, "aId": 901, "cat": "Instant" },
+  { "pId": 9, "aId": 901, "cat": "Best-Seller" }
+]

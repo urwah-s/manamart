@@ -1,0 +1,56 @@
+[
+  { "pId": 1,
+    "aId": 101,
+    "name": "Standard Art"
+  },
+  {
+    "pId": 1,
+    "aId": 102,
+    "name": "Borderless Art"
+  },
+  {
+    "pId": 1,
+    "aId": 103,
+    "name": "Foil Art"
+  },
+  { "pId": 2,
+    "aId": 201,
+    "name": "Standard Art"
+  },
+  { "pId": 2,
+    "aId": 202,
+    "name": "Borderless Art"
+  },
+  { "pId": 2,
+    "aId": 203,
+    "name": "FFXIV Art"
+  },
+  { "pId": 3,
+    "aId": 301,
+    "name": "Standard Art"
+  },
+  { "pId": 4,
+    "aId": 401,
+    "name": "Standard Art"
+  },
+  { "pId": 5,
+    "aId": 501,
+    "name": "Standard Art"
+  },
+  { "pId": 6,
+    "aId": 601,
+    "name": "Standard Art"
+  },
+  { "pId": 7,
+    "aId": 701,
+    "name": "Standard Art"
+  },
+  { "pId": 8,
+    "aId": 801,
+    "name": "Standard Art"
+  },
+  { "pId": 9,
+    "aId": 901,
+    "name": "Standard Art"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "The Ur-Dragon",
+    "category": "Commander",
+    "description": "Eminence — As long as The Ur-Dragon is in the command zone or on the battlefield, other Dragon spells you cast cost {1} less to cast. \nFlying. \nWhenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield.",
+    "price": 57.99,
+    "img": "/the-ur-dragon.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sol Ring",
+    "category": "Artifact",
+    "description": "Tap: 2 mana",
+    "price": 1.79,
+    "img": "/sol-ring.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Path to Exile",
+    "category": "Instant",
+    "description": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+    "price": 0.99,
+    "img": "/path-to-exile.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Anguished Unmaking",
+    "category": "Instant",
+    "description": "Exile target nonland permanent. You lose 3 life.",
+    "price": 1.21,
+    "img": "/anguished-unmaking.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Arcane Signet",
+    "category": "Artifact",
+    "description": "Tap: Add one mana of any color in your commander’s color identity.",
+    "price": 4.03,
+    "img": "/arcane-signet.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Atraxa, Praetors' Voice",
+    "category": "Commander",
+    "description": "Flying, vigilance, deathtouch, lifelink\n\nAt the beginning of your end step, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "price": 4.03,
+    "img": "/atraxa-praetors-voice.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Krenko, Mob Boss",
+    "category": "Commander",
+    "description": "Tap: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",
+    "price": 397.69,
+    "img": "/krenko-mob-boss.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Swiftfoot Boots",
+    "category": "Artifact",
+    "description": "Equipped creature has hexproof and haste. (It can’t be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.)\n\nEquip (1) ((1): Attach to target creature you control. Equip only as a sorcery.)",
+    "price": 2.82,
+    "img": "/swiftfoot-boots.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Vampiric Tutor",
+    "category": "Instant",
+    "description": "Search your library for a card, then shuffle and put that card on top. You lose 2 life.",
+    "price": 58.17,
+    "img": "/vampiric-tutor.jpg"
+  }
+]
